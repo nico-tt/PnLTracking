@@ -58,7 +58,7 @@ Position = Dict[str, Union[str, float]]
 
 # ── Pre‑loaded portfolio -------------------------------------------------------
 DEFAULT_POSITIONS: List[Position] = [
-    {"symbol": "BTC/USDT", "entry_price": 102_930.0, "size": 2.0},
+    {"symbol": "BTC", "entry_price": 102_930.0, "size": 2.0},
     {"symbol": "ETH", "entry_price": 2_484.068, "size": 5.38},
     {"symbol": "SOL", "entry_price": 164.987, "size": 80.99},
     {"symbol": "SUI", "entry_price": 3.785, "size": 3_530.34},
