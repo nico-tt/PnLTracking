@@ -80,7 +80,7 @@ API_BASE: Final = "https://api.mexc.com"  # ← switched from Binance to MEXC
 # ── Page config ----------------------------------------------------------------
 st.set_page_config(page_title="Crypto Spot PnL Dashboard", layout="wide")
 
-st.title("📈 Crypto Spot PnL Dashboard (MEXC)")
+st.title("📈 Crypto Spot PnL Dashboard")
 
 # ────────────────────────────────────────────────────────────────────────────────
 # Sidebar – manage user positions
